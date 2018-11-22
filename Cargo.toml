@@ -1,0 +1,7 @@
+[package]
+name = "tokio_test"
+version = "0.1.0"
+authors = ["jjy <jjyruby@gmail.com>"]
+
+[dependencies]
+tokio = "0.1"
